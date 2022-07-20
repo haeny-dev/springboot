@@ -1,4 +1,4 @@
-package com.haeny.spock.repository;
+package com.haeny.spock.api.amount.repository;
 
 import lombok.extern.slf4j.Slf4j;
 

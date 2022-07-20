@@ -1,10 +1,9 @@
 package com.haeny.spock;
 
 import static org.assertj.core.api.Assertions.*;
-import static org.junit.jupiter.api.Assertions.*;
 
-import com.haeny.spock.exception.NegativeNumberException;
-import org.assertj.core.api.Assertions;
+import com.haeny.spock.api.amount.constant.FeeCalculateType;
+import com.haeny.spock.api.amount.exception.NegativeNumberException;
 import org.junit.jupiter.api.Test;
 
 class BasicUsageJavaTest {

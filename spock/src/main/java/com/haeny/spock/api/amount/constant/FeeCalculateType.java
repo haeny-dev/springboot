@@ -1,6 +1,6 @@
-package com.haeny.spock;
+package com.haeny.spock.api.amount.constant;
 
-import com.haeny.spock.exception.NegativeNumberException;
+import com.haeny.spock.api.amount.exception.NegativeNumberException;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.function.Function;

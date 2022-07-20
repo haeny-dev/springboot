@@ -1,7 +1,8 @@
 package com.haeny.spock
 
-import com.haeny.spock.repository.AmountRepository
-import com.haeny.spock.service.AmountService
+import com.haeny.spock.api.amount.constant.FeeCalculateType
+import com.haeny.spock.api.amount.repository.AmountRepository
+import com.haeny.spock.api.amount.service.AmountService
 import spock.lang.Specification
 
 class MockUsageTest extends Specification{

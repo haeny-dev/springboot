@@ -1,4 +1,4 @@
-package com.haeny.spock.exception;
+package com.haeny.spock.api.amount.exception;
 
 public class NegativeNumberException extends RuntimeException {
 

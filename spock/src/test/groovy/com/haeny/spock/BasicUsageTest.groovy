@@ -1,6 +1,7 @@
 package com.haeny.spock
 
-import com.haeny.spock.exception.NegativeNumberException
+import com.haeny.spock.api.amount.constant.FeeCalculateType
+import com.haeny.spock.api.amount.exception.NegativeNumberException
 import spock.lang.Specification
 import spock.lang.Unroll
 

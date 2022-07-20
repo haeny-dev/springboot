@@ -1,6 +1,6 @@
-package com.haeny.spock.service;
+package com.haeny.spock.api.amount.service;
 
-import com.haeny.spock.repository.AmountRepository;
+import com.haeny.spock.api.amount.repository.AmountRepository;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
